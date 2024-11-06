@@ -1,7 +1,7 @@
 <template>
   <div class="fixed flex justify-between w-full bottom-0 bg-gray-800 text-gray-200 p-4">
     <div>Nerea Piñol Monterde</div>
-    <div><a href="https://github.com/nereapinol/vue3app" target="_blank">
+    <div><a href="https://github.com/NereaPinol33/ProjecteJavascript-Calculadora.git" target="_blank">
         <div class="flex items-center gap-2">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
             stroke="currentColor" class="size-6">
